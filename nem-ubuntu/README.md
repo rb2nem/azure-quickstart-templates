@@ -9,7 +9,7 @@ This Microsoft Azure template deploys the NEM Infrastructure Server (NIS).
 
 Once your deployment is complete you will be able to use NIS's API do accomplish various tasks on the NEM public blockchain and network.
 
-![NEM-Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/nem-ubuntu/images/nem-logo-shield.png)
+![NEM-Azure](images/nem-logo-shield.png)
 
 # Template Parameters
 When you launch the installation of the VM, you need to specify the following parameters:
