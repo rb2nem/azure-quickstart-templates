@@ -8,6 +8,7 @@ This Microsoft Azure template deploys the NEM Infrastructure Server (NIS).
 </a>
 
 Once your deployment is complete you will be able to use NIS's API do accomplish various tasks on the NEM public blockchain and network.
+Here's our API-documentation http://bob.nem.ninja/docs/
 
 ![NEM-Azure](images/nem-logo-shield.png)
 
@@ -28,4 +29,5 @@ When you launch the installation of the VM, you need to specify the following pa
 
  3. then expand your resources, and public ip address of your node.
 
-2. Connect to your NEM node
+2. Connect to your NEM node and start using the API
+
